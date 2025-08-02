@@ -81,7 +81,3 @@ flipkart-vendor-analytics/
 * Embed Gemini/ChatGPT for AI-powered vendor suggestions
 
 
----
-
-Let me know if you'd like me to generate the `requirements.txt` file or customize the README with your name or GitHub handle.
-```
